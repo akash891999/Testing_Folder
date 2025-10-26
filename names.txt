@@ -1,2 +1,2 @@
-Akash is learning devops engineer
+Akash is learned devops engineer
 He has completed linux and git tutorial.
